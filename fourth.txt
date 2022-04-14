@@ -1,4 +1,0 @@
-fourth file is being inserted
-fourth file from server is being
-changed
-in order to verify the connectivity
